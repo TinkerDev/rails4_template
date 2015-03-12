@@ -4,3 +4,7 @@
 /tmp
 /.idea
 .DS_Store
+config/database.yml
+config/application.local.yml
+vendor/assets/components/
+
